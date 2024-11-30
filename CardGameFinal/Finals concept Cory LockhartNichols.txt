@@ -1,0 +1,40 @@
+Submission #2
+Notes: Started this on my own early because it interested me and I wanted to do it even if it didn't get approved for the final so everything above the *** is already done. 
+Whats left should be simple enough to fit in the time limit. Was honestly expecting to need to add more, removed the things I was less sure on but beyond that not sure I could simplify more.
+
+
+
+Card game in the genre of magic but units move in real time
+similar game:
+	https://store.steampowered.com/app/1144970/Necronator_Dead_Wrong/
+Differences:
+	Won't have paths, more just an open field. If I continue with this after class is over I'd probably emphasise the deck building more than they did but not sure I could
+	get it to a good state during this assignment's time limit.
+
+Basic Summary: Card game functioning in real time, mana regenerates over time, use it to cast cards to summon units or damage enemies, push to the enemy leader and take them out to win.
+		Can spend mana to refill hand when you run out or its free after a certain amount of time.
+
+Features/To Do list:
+	Ability to create units, function is set up to handle getting called from cards but for now manually called in code due to no deck/hand system
+	Basic stats and AI for melee and ranged units
+
+	Initialize cards from text file on game start, automatically figures how many cards should be in it based on number of lines
+	Functions to allow cards able to create units and damage units
+	Deck/hand/graveyard trackers for cards, move from manually calling functions to working through cards
+	Cancel the casting of a card you selected
+	Enlarge card to read easier
+	Some form of mana to control if cards can be cast
+	Load deck from text file
+	Load units from text file
+***********************************************************************************************************************************************************************************
+	Ability to refill hand, costs mana if done to soon.
+	
+	Enemy will likely use the same resource system to control its timing but pick random units, probably after cast choose random and then wait till enough resources
+	Add sounds to unit summon and damage spell. Unsure on unit attack, to frequent?
+
+
+
+
+
+
+    

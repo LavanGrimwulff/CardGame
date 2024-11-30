@@ -1,0 +1,5 @@
+Template, one creature per line(attack type is either attack or heal)
+health,speed,armor,damage,range,attacktype
+100,60,0,10,1000,attack
+100,60,5,30,1000,attack
+1000,0,1,20,1100,attack

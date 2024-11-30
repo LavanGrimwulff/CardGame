@@ -1,0 +1,15 @@
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\CardGameFinal.pdb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Audio\Explosion.ogg
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Audio\Explosion.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\boss.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\CardBack.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\Espeon.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\Explosion.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\explosionsheet.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\redrawCost.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\redrawFree.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/Images\Umbreon.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\Content/NewSpriteFont.xnb
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\SDL2.dll
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\soft_oal.dll
+C:\Users\corlo\Desktop\Class Stuff\BuiltFInal\CardGameFinal.exe

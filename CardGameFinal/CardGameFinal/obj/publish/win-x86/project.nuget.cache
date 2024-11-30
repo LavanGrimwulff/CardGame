@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VoSXnaVAPChISQ3m02bR1i3J+26U4HMRNth/d+HdVgsbFdld37S8kUT1hVy/W3Qx+Y71Y4u6ob/KM9y0UyqbBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corlo\\source\\repos\\CardGameFinal\\CardGameFinal\\CardGameFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corlo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\corlo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\corlo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.22\\microsoft.netcore.app.runtime.win-x86.6.0.22.nupkg.sha512",
+    "C:\\Users\\corlo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.22\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.22.nupkg.sha512",
+    "C:\\Users\\corlo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.22\\microsoft.aspnetcore.app.runtime.win-x86.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

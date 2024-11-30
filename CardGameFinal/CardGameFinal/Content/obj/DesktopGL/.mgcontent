@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Audio/Explosion.mp3</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/635032476092624013.jpg</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/Espeon.webp</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/Explosion.png</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/explosionsheet.png</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/redrawCost.png</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/redrawFree.png</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/terriermon-lopmon-digimon-masters-guilmon-digimon-df2a628ae70171c89b41542a57140d89.png</File>
+    <File>C:/Users/corlo/source/repos/CardGameFinal/CardGameFinal/Content/Images/Umbreon.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Images/CardBack.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/boss.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

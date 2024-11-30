@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CardGameFinal</id>
+    <version>1.0.0</version>
+    <authors>CardGameFinal</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.1.303" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Audio/Explosion.ogg" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Audio/Explosion.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/boss.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/CardBack.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/Espeon.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/Explosion.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/explosionsheet.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/redrawCost.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/redrawFree.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Images/Umbreon.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/NewSpriteFont.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\bin\Debug\net6.0\CardGameFinal.runtimeconfig.json" target="lib\net6.0\CardGameFinal.runtimeconfig.json" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\bin\Debug\net6.0\CardGameFinal.dll" target="lib\net6.0\CardGameFinal.dll" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Audio\Explosion.ogg" target="content\Content\bin\DesktopGL\Content\Audio\Explosion.ogg" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Audio\Explosion.ogg" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Audio\Explosion.ogg" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Audio\Explosion.xnb" target="content\Content\bin\DesktopGL\Content\Audio\Explosion.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Audio\Explosion.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Audio\Explosion.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\boss.xnb" target="content\Content\bin\DesktopGL\Content\Images\boss.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\boss.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\boss.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\CardBack.xnb" target="content\Content\bin\DesktopGL\Content\Images\CardBack.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\CardBack.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\CardBack.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\Espeon.xnb" target="content\Content\bin\DesktopGL\Content\Images\Espeon.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\Espeon.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\Espeon.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\Explosion.xnb" target="content\Content\bin\DesktopGL\Content\Images\Explosion.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\Explosion.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\Explosion.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\explosionsheet.xnb" target="content\Content\bin\DesktopGL\Content\Images\explosionsheet.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\explosionsheet.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\explosionsheet.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\redrawCost.xnb" target="content\Content\bin\DesktopGL\Content\Images\redrawCost.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\redrawCost.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\redrawCost.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\redrawFree.xnb" target="content\Content\bin\DesktopGL\Content\Images\redrawFree.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\redrawFree.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\redrawFree.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\Umbreon.xnb" target="content\Content\bin\DesktopGL\Content\Images\Umbreon.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\Images\Umbreon.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Images\Umbreon.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\NewSpriteFont.xnb" target="content\Content\bin\DesktopGL\Content\NewSpriteFont.xnb" />
+    <file src="C:\Users\corlo\source\repos\CardGameFinal\CardGameFinal\Content\bin\DesktopGL\Content\NewSpriteFont.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\NewSpriteFont.xnb" />
+  </files>
+</package>

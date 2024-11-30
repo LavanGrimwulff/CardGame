@@ -1,0 +1,1 @@
+Goal is to kill the enemy leader. Periodically the enemy will summon units. You have to use mana to cast spells to overwhelm them. Balance is non-existent, set up to demo functions.
