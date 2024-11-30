@@ -1,0 +1,24 @@
+﻿Template:
+cost,name,text,summonSpell,attackspell,statusspell,friendly or enemy
+unit type,unit ammount
+number of targets,ammount of damage
+number of targets,status to apply
+
+ie the following would be a card named squire that summons a single unit of type 0. Be sure to leave an empty line after each entry. Add cards to end of file.
+
+10,squire,summons a squire,true,false,false,friendly
+0,1
+0,0
+0,0
+
+30,Knight and squire,Summons a Knight along with his squire,true,false,false,friendly
+1,1,0,1
+0,0
+0,0
+
+30,Fireball,Does damage to 3 targets,false,true,false,friendly
+0,0
+3,50
+0,0
+
+Put cards above this. Just here to keep the numberOfCards value from stopping one line to soon.

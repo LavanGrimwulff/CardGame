@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/CardGame/CardGameCode/CardGameFinal/Content/Audio/Explosion.mp3</SourceFile>
+  <SourceTime>2023-12-05T17:57:00-06:00</SourceTime>
+  <DestFile>D:/CardGame/CardGameCode/CardGameFinal/Content/bin/DesktopGL/Content/Audio/Explosion.xnb</DestFile>
+  <DestTime>2024-11-29T18:45:16.983449-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T06:44:56-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T06:44:56-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
